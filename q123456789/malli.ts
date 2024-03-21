@@ -1,3 +1,4 @@
+#! /usr/bin/env node 
 import inquirer from "inquirer"
 //asking question form users through inquirer
 let answers=await inquirer.prompt([
